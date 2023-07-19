@@ -1,2 +1,3 @@
 # vscode-python-bug
-Bug in vscode when running tests
+Example to show a bug in vscode when running tests.
+If a segmentation fault occurs during a test, VS code may continue to show it as passing
